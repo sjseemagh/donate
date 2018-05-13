@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="donate:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/donate_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="donate/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="donate" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
